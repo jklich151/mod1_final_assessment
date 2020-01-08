@@ -1,3 +1,7 @@
+# BE1 Final Paired Assessment Prework
+
+Prior to your scheduled final assessment day, complete the following iterations.  You *do not* need to fork this repo - create a directory on your machine and complete the work locally.  During your paired assessment, your instructor will give you additional tasks to complete based on the classes described below.
+
 ## Iteration 1
 
 Use TDD to create a `Student` class that responds to the following interaction pattern:
